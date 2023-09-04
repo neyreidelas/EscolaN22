@@ -227,7 +227,7 @@ namespace Escola_POO_BASE.Telas
                 MessageBox.Show(ex.Message,
                                 "Erro",
                                 MessageBoxButtons.OK,
-                                MessageBoxIcon.Error);
+                                MessageBoxIcon.Error);//lklkjgh
             }
         }
 
